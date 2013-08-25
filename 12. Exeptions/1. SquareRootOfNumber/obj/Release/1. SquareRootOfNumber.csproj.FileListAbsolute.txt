@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\bin\Release\_1.SquareRootOfNumber.exe.config
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\bin\Release\_1.SquareRootOfNumber.exe
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\bin\Release\_1.SquareRootOfNumber.pdb
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\obj\Release\_1.SquareRootOfNumber.exe
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\obj\Release\_1.SquareRootOfNumber.pdb

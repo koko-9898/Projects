@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\bin\Release\_2.ReadNumberInRange.exe.config
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\bin\Release\_2.ReadNumberInRange.exe
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\bin\Release\_2.ReadNumberInRange.pdb
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\obj\Release\_2.ReadNumberInRange.exe
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\obj\Release\_2.ReadNumberInRange.pdb

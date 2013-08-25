@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\12. Exeptions\4. DownlaodFile\bin\Debug\_4.DownlaodFile.exe.config
+C:\Users\student\Desktop\12. Exeptions\4. DownlaodFile\bin\Debug\_4.DownlaodFile.exe
+C:\Users\student\Desktop\12. Exeptions\4. DownlaodFile\bin\Debug\_4.DownlaodFile.pdb
+C:\Users\student\Desktop\12. Exeptions\4. DownlaodFile\obj\Debug\4. DownlaodFile.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\12. Exeptions\4. DownlaodFile\obj\Debug\_4.DownlaodFile.exe
+C:\Users\student\Desktop\12. Exeptions\4. DownlaodFile\obj\Debug\_4.DownlaodFile.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\4. DownlaodFile\bin\Debug\_4.DownlaodFile.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\4. DownlaodFile\obj\Debug\_4.DownlaodFile.exe
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\4. DownlaodFile\obj\Debug\_4.DownlaodFile.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\4. DownlaodFile\bin\Debug\_4.DownlaodFile.exe
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\4. DownlaodFile\bin\Debug\_4.DownlaodFile.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\4. DownlaodFile\obj\Debug\4. DownlaodFile.csprojResolveAssemblyReference.cache

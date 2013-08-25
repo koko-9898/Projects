@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\12. Exeptions\3. ReadFile\bin\Debug\_3.ReadFile.exe.config
+C:\Users\student\Desktop\12. Exeptions\3. ReadFile\bin\Debug\_3.ReadFile.exe
+C:\Users\student\Desktop\12. Exeptions\3. ReadFile\bin\Debug\_3.ReadFile.pdb
+C:\Users\student\Desktop\12. Exeptions\3. ReadFile\obj\Debug\3. ReadFile.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\12. Exeptions\3. ReadFile\obj\Debug\_3.ReadFile.exe
+C:\Users\student\Desktop\12. Exeptions\3. ReadFile\obj\Debug\_3.ReadFile.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\3. ReadFile\bin\Debug\_3.ReadFile.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\3. ReadFile\obj\Debug\_3.ReadFile.exe
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\3. ReadFile\obj\Debug\_3.ReadFile.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\3. ReadFile\bin\Debug\_3.ReadFile.exe
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\3. ReadFile\bin\Debug\_3.ReadFile.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\3. ReadFile\obj\Debug\3. ReadFile.csprojResolveAssemblyReference.cache

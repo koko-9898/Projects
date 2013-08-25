@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\bin\Debug\_1.SquareRootOfNumber.exe.config
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\bin\Debug\_1.SquareRootOfNumber.exe
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\bin\Debug\_1.SquareRootOfNumber.pdb
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\obj\Debug\1. SquareRootOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\obj\Debug\_1.SquareRootOfNumber.exe
+C:\Users\student\Desktop\12. Exeptions\1. SquareRootOfNumber\obj\Debug\_1.SquareRootOfNumber.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\1. SquareRootOfNumber\bin\Debug\_1.SquareRootOfNumber.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\1. SquareRootOfNumber\obj\Debug\_1.SquareRootOfNumber.exe
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\1. SquareRootOfNumber\obj\Debug\_1.SquareRootOfNumber.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\1. SquareRootOfNumber\bin\Debug\_1.SquareRootOfNumber.exe
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\1. SquareRootOfNumber\bin\Debug\_1.SquareRootOfNumber.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\1. SquareRootOfNumber\obj\Debug\1. SquareRootOfNumber.csprojResolveAssemblyReference.cache

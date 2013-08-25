@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\bin\Debug\_2.ReadNumberInRange.exe.config
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\bin\Debug\_2.ReadNumberInRange.exe
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\bin\Debug\_2.ReadNumberInRange.pdb
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\obj\Debug\_2.ReadNumberInRange.exe
+C:\Users\student\Desktop\12. Exeptions\2. ReadNumberInRange\obj\Debug\_2.ReadNumberInRange.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\2. ReadNumberInRange\bin\Debug\_2.ReadNumberInRange.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\2. ReadNumberInRange\obj\Debug\_2.ReadNumberInRange.exe
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\2. ReadNumberInRange\obj\Debug\_2.ReadNumberInRange.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\2. ReadNumberInRange\bin\Debug\_2.ReadNumberInRange.exe
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\2. ReadNumberInRange\bin\Debug\_2.ReadNumberInRange.pdb
+C:\Users\Владислав\Documents\Visual Studio 2012\Projects\12. Exeptions\2. ReadNumberInRange\obj\Debug\2. ReadNumberInRange.csprojResolveAssemblyReference.cache
